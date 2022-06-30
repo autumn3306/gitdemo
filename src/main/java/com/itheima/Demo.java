@@ -6,6 +6,5 @@ public class Demo {
         System.out.println("master");
         System.out.println("hotfix");
         System.out.println("pull");
-        规范化发过很多
     }
 }
