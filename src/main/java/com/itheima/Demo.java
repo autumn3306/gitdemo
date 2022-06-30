@@ -5,5 +5,6 @@ public class Demo {
         System.out.println(123);
         System.out.println("master");
         System.out.println("hotfix");
+        System.out.println("push");
     }
 }
